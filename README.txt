@@ -10,6 +10,8 @@ The modifiable folder contains all the sounds extracted into multiple sound file
 Please use the Modifiable folder sounds for the easier modification, and the original folder for harder but more advanced modification
 
 
+Just a note, this will be updated over time as I add more modifiable sounds.
+You can also modify them if you want to. If you send them to me, I'll add your file(s) here and also your name here.
 
 
 WARNING
