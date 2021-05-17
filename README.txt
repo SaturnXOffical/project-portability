@@ -1,7 +1,13 @@
+Project Portability
 Taking the built-in Mechvibes soundpacks and putting them into custom, and modifiable soundpacks
+
 
 To use this soundpacks, please install Mechvibes if not already installed.
 https://mechvibes.com/download/
+
+
+
+
 
 Instructions:
 The original folder contains the non-modifiable, orginal untouched default sounds used in Mechvibes
@@ -24,4 +30,4 @@ Special Thanks to @!Pyro!#0967 for giving me the links to the original sound fil
 
 
 
-If you need any help with adding or modifying the sound files, feel free to ask for help in the #help-and-support channel in the mechvibes discord server.
+If you need any help with adding or modifying the sound files, feel free to ask for help in the #help-and-support channel in the Mechvibes discord server.
