@@ -1,0 +1,22 @@
+
+
+i was pretty tired making this since its 3am right now as im making this
+
+i just wanted to give you some info on how you can use it
+
+
+yes i know not all sounds are added, im tired, i might fix it at a later time
+
+
+
+since people think the spacebar sounds "fake" i took the sounds and put them into a custom soundpack for you to change
+the spacebar sound to your prefrence
+
+all you need to do is delete the spacebar.mp3 and add your own mp3 file of a keypress and name it to spacebar.mp3
+if it doesnt work reach out to me in the #help-and-support channel
+
+
+
+
+special thanks to @!Pyro!#0967 for giving me the idea and link to the sound file
+made by SaturnDev, 5/17/2021
