@@ -6,10 +6,7 @@ Bringing the built-in Mechvibes soundpacks to custom, modifiable soundpacks
 
 
 
-To use the Project Portability (PPb) soundpacks, please install Mechvibes if it isn't installed already.
-
-https://mechvibes.com/download/
-
+(https://projectportability.io/)[https://teamgrief.github.io/portability/]
 
 
 
