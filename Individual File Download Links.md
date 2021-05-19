@@ -2,7 +2,7 @@
 
 Individual file download links
 
-You can download the full file at the [Releases](https://github.com/SaturnXOffical/project-portability) page of PPb
+You can download the full file at the [Releases](https://github.com/SaturnXOffical/project-portability/releases) page of PPb
 
 [NK Creams](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SaturnXOffical/project-portability/tree/main/modifiable/nk-cream)
 
