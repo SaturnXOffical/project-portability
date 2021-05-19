@@ -32,7 +32,7 @@ You don't need to create any files. Just drag & drop. Mechvibes Custom gets inst
 
 # Issues & Problems
 
-If your having any issues, feel free to contact me (saturndev) in the Mechvibes Discord server inside the #help-and-support channel, and i'll help you as much as I can.
+If your having any issues, feel free to contact me (saturndev) in the [Mechvibes Discord server](https://discord.gg/ydZqwvrvYS) inside the #help-and-support channel, and i'll help you as much as I can.
 
 
 
@@ -57,6 +57,8 @@ Mechvibes is made by hainguyen13
 # Links
 
 [Project Website](https://teamgrief.github.io/portability/)
+
+[Mechvibes Discord Server](https://discord.gg/ydZqwvrvYS)
 
 [Mechvibes Download](https://mechvibes.com/download/)
 
