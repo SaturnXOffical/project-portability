@@ -6,7 +6,7 @@ Bringing the built-in Mechvibes soundpacks to custom, modifiable soundpacks
 
 
 
-(https://projectportability.io/)[https://teamgrief.github.io/portability/]
+(projectportability.io)[https://teamgrief.github.io/portability/]
 
 
 
