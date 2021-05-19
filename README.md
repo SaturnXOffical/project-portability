@@ -48,7 +48,7 @@ Mechvibes is made by hainguyen13
 
 # Links
 
-Mechvibes Download: https://mechvibes.com/download/\
+Mechvibes Download: https://mechvibes.com/download/
 
 Mechvibes Website: https://mechvibes.com/
 
