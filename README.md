@@ -16,9 +16,17 @@ https://mechvibes.com/download/
 
 # How to Install
 
-Remember to install Mechvibes with the link above if you haven't already.
+Remember to [install Mechvibes](https://mechvibes.com/download/) if you haven't already.
 
-Drag one of the folders (eg mx-blue-pbt or nk-creams and NOT modifiable or original) into your Mechvibes Custom folder (located at Users/xxx/mechvibes_custom) and then restart your Mechvibes Program.
+
+
+Drag every item inside the modifiable folder **besides the to-do .txt file** into your Mechvibes Custom folder.
+
+Your Mechvibes Custom folder is located at C:/Users/your-username-here/mechvibes_custom/
+
+You don't need to create any files. Just drag & drop. Mechvibes Custom gets installed with Mechvibes
+
+
 
 
 
@@ -48,8 +56,8 @@ Mechvibes is made by hainguyen13
 
 # Links
 
+[Project Website](https://teamgrief.github.io/portability/)
+
 [Mechvibes Download](https://mechvibes.com/download/)
 
 [Mechvibes Website](https://mechvibes.com/)
-
-[Project Website](https://teamgrief.github.io/portability/)
