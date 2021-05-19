@@ -48,8 +48,8 @@ Mechvibes is made by hainguyen13
 
 # Links
 
-Mechvibes Download: https://mechvibes.com/download/
+[Mechvibes Download](https://mechvibes.com/download/)
 
-Mechvibes Website: https://mechvibes.com/
+[Mechvibes Website](https://mechvibes.com/)
 
-Project Website: https://teamgrief.github.io/portability/
+[Project Website](https://teamgrief.github.io/portability/)
