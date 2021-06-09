@@ -19,6 +19,7 @@ Remember to [install Mechvibes](https://mechvibes.com/download/) if you haven't 
 Run the bat file 
 
 If you have [MechvibesPlusPlus](https://github.com/PyroCalzone/MechvibesPlusPlus/releases/latest) installed, please download and run the **mechvibesplusplus-installer.bat** file
+
 Otherwise, if you have Mechvibes installed, download and run the **mechvibes-installer.bat** file
 
 
