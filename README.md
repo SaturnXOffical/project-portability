@@ -16,13 +16,10 @@ Bringing the built-in Mechvibes soundpacks to custom, modifiable soundpacks
 Remember to [install Mechvibes](https://mechvibes.com/download/) if you haven't already.
 
 
+Run the bat file 
 
-Drag every item inside the modifiable folder **besides the to-do .txt file** into your Mechvibes Custom folder.
-
-Your Mechvibes Custom folder is located at C:/Users/your-username-here/mechvibes_custom/
-
-You don't need to create any files. Just drag & drop. Mechvibes Custom gets installed with Mechvibes
-
+If you have [MechvibesPlusPlus](https://github.com/PyroCalzone/MechvibesPlusPlus/releases/latest) installed, please download and run the **mechvibesplusplus-installer.bat** file
+Otherwise, if you have Mechvibes installed, download and run the **mechvibes-installer.bat** file
 
 
 
