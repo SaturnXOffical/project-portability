@@ -1,0 +1,6 @@
+
+If your using regular Mechvibes, run mechvibes-installer.bat
+If you are using MechvibesPlusPlus (has mouse sounds and keyup sounds), then run mechvibesplusplus-installer.bat
+
+Any further questions or help can be sent on the Mechvibes++ Discord. NOT THE MECHVIBES DISCORD
+https://discord.gg/WR5Ax6vXNU <-- Mechvibes++ discord invite
